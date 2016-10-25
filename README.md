@@ -1,5 +1,6 @@
-# My HTML Playground
-Here will be the home to my main practice playground. Feel free to use this for yourself, but full atribution should remain on the website or a DMCA takedown may be issued against your website.
+# Coming Soon Template
+You may use this in your projects provided credit is given.
+Please also let me know if you're using it. I'd love to see them.
 
 There may be some materials in this that are not owned by myself and are credited below.
 - None
@@ -9,4 +10,4 @@ Some materials may also not be included as I may not have the right to publish t
 
 
 Thanks for clicking!
-Daniel Ennis | Twitter: @flubbyz3
+Daniel Ennis | Twitter: @flubbyz3 | daniel@elementallabs.pw
